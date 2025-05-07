@@ -29,3 +29,12 @@ GastoSmart es una aplicación web diseñada para registrar, visualizar y analiza
    ```bash
    git clone https://github.com/tu-usuario/gasto-smart.git
    cd gasto-smart
+
+## 🌐 Demo en línea
+
+- [Ver demo en Vercel](https://gasto-smart.vercel.app)
+
+## 📧 Contacto
+
+LinkedIn: [Jose-Aguilar](www.linkedin.com/in/jose-aguilar-2a798222a)
+Correo: jose1226a@gmail.com 
