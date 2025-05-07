@@ -1,0 +1,53 @@
+.expense-card {
+    background-color: #2f3640; // ← en lugar de #ffffff
+    color: #f5f6fa;            // ← aseguramos contraste del texto
+    border-radius: 10px;
+    padding: 1rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    margin: 1rem 0;
+  
+    h3 {
+      margin: 0;
+      font-size: 1.2rem;
+    }
+  
+    p {
+      font-size: 1.1rem;
+      color: #44bd32;
+      margin: 0.5rem 0;
+    }
+  
+    span {
+      display: inline-block;
+      background: #353b48;
+      color: #dcdde1;
+      padding: 0.25rem 0.5rem;
+      border-radius: 5px;
+      font-size: 0.85rem;
+    }
+  
+    small {
+      display: block;
+      margin-top: 1rem;
+      font-size: 1rem;
+      font-weight: bold;
+      color: #40739e;
+    }
+  
+    .delete-btn {
+      margin-top: 0.75rem;
+      padding: 0.4rem 0.75rem;
+      background-color: #e84118;
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+      font-size: 0.9rem;
+      transition: background-color 0.2s;
+  
+      &:hover {
+        background-color: #c23616;
+      }
+    }
+  }
+  
